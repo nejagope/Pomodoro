@@ -39,13 +39,21 @@ namespace Pomodoro.ViewModels
             set { isInBreak = value; OnPropertyChanged(); }
         }
 
+        private int duration;
+
+        public int Duration
+        {
+            get { return duration; }
+            set { duration = value; OnPropertyChanged(); }
+        }
+
 
         public ICommand StartOrPauseCommand { get; set; }
 
         public PomodoroPageViewModel()
         {
-            InitializeTimer();
             LoadConfiguredValues();
+            InitializeTimer();            
             StartOrPauseCommand = new Command(StartOrPauseCommandExecute);
         }
 
@@ -53,6 +61,7 @@ namespace Pomodoro.ViewModels
         {
             pomodoroDuration = (int)Application.Current.Properties[Literals.PomodoroDurationKey];
             breakDuration = (int)Application.Current.Properties[Literals.BreakDurationKey];
+            Duration = pomodoroDuration * 60;
         }
 
         private void StartOrPauseCommandExecute(object obj)

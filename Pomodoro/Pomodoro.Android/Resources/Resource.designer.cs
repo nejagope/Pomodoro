@@ -26,6 +26,111 @@ namespace Pomodoro.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.circleColor = global::Pomodoro.Droid.Resource.Attribute.circleColor;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.circularProgressBarStyle = global::Pomodoro.Droid.Resource.Attribute.circularProgressBarStyle;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.circular_gravity = global::Pomodoro.Droid.Resource.Attribute.circular_gravity;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.circular_indeterminate = global::Pomodoro.Droid.Resource.Attribute.circular_indeterminate;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.circular_indeterminate_interval = global::Pomodoro.Droid.Resource.Attribute.circular_indeterminate_interval;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.circular_marker_progress = global::Pomodoro.Droid.Resource.Attribute.circular_marker_progress;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.circular_progress = global::Pomodoro.Droid.Resource.Attribute.circular_progress;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.circular_progress_background_color = global::Pomodoro.Droid.Resource.Attribute.circular_progress_background_color;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.circular_progress_color = global::Pomodoro.Droid.Resource.Attribute.circular_progress_color;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.circular_stroke_width = global::Pomodoro.Droid.Resource.Attribute.circular_stroke_width;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.indeterminate = global::Pomodoro.Droid.Resource.Attribute.indeterminate;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.indeterminate_interval = global::Pomodoro.Droid.Resource.Attribute.indeterminate_interval;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.innerSize = global::Pomodoro.Droid.Resource.Attribute.innerSize;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.max = global::Pomodoro.Droid.Resource.Attribute.max;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.pinned = global::Pomodoro.Droid.Resource.Attribute.pinned;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.pinnedDrawable = global::Pomodoro.Droid.Resource.Attribute.pinnedDrawable;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.progress = global::Pomodoro.Droid.Resource.Attribute.progress;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.progressButtonStyle = global::Pomodoro.Droid.Resource.Attribute.progressButtonStyle;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.progressColor = global::Pomodoro.Droid.Resource.Attribute.progressColor;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.shadowDrawable = global::Pomodoro.Droid.Resource.Attribute.shadowDrawable;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.unpinnedDrawable = global::Pomodoro.Droid.Resource.Attribute.unpinnedDrawable;
+			global::com.refractored.monodroidtoolkit.Resource.Color.progress_default_circle_color = global::Pomodoro.Droid.Resource.Color.progress_default_circle_color;
+			global::com.refractored.monodroidtoolkit.Resource.Color.progress_default_progress_color = global::Pomodoro.Droid.Resource.Color.progress_default_progress_color;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_background_dark = global::Pomodoro.Droid.Resource.Color.refractored_background_dark;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_background_holo_dark = global::Pomodoro.Droid.Resource.Color.refractored_background_holo_dark;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_background_holo_light = global::Pomodoro.Droid.Resource.Color.refractored_background_holo_light;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_background_light = global::Pomodoro.Droid.Resource.Color.refractored_background_light;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_bright_foreground_dark = global::Pomodoro.Droid.Resource.Color.refractored_bright_foreground_dark;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_bright_foreground_dark_disabled = global::Pomodoro.Droid.Resource.Color.refractored_bright_foreground_dark_disabled;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_bright_foreground_disabled_holo_dark = global::Pomodoro.Droid.Resource.Color.refractored_bright_foreground_disabled_holo_dark;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_bright_foreground_disabled_holo_light = global::Pomodoro.Droid.Resource.Color.refractored_bright_foreground_disabled_holo_light;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_bright_foreground_holo_dark = global::Pomodoro.Droid.Resource.Color.refractored_bright_foreground_holo_dark;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_bright_foreground_holo_light = global::Pomodoro.Droid.Resource.Color.refractored_bright_foreground_holo_light;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_bright_foreground_light = global::Pomodoro.Droid.Resource.Color.refractored_bright_foreground_light;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_dim_foreground_disabled_holo_dark = global::Pomodoro.Droid.Resource.Color.refractored_dim_foreground_disabled_holo_dark;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_dim_foreground_disabled_holo_light = global::Pomodoro.Droid.Resource.Color.refractored_dim_foreground_disabled_holo_light;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_dim_foreground_holo_dark = global::Pomodoro.Droid.Resource.Color.refractored_dim_foreground_holo_dark;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_dim_foreground_holo_light = global::Pomodoro.Droid.Resource.Color.refractored_dim_foreground_holo_light;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_highlighted_text_holo_dark = global::Pomodoro.Droid.Resource.Color.refractored_highlighted_text_holo_dark;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_highlighted_text_holo_light = global::Pomodoro.Droid.Resource.Color.refractored_highlighted_text_holo_light;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_hint_foreground_holo_dark = global::Pomodoro.Droid.Resource.Color.refractored_hint_foreground_holo_dark;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_hint_foreground_holo_light = global::Pomodoro.Droid.Resource.Color.refractored_hint_foreground_holo_light;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_holo_blue_bright = global::Pomodoro.Droid.Resource.Color.refractored_holo_blue_bright;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_holo_blue_dark = global::Pomodoro.Droid.Resource.Color.refractored_holo_blue_dark;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_holo_blue_light = global::Pomodoro.Droid.Resource.Color.refractored_holo_blue_light;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_holo_green_dark = global::Pomodoro.Droid.Resource.Color.refractored_holo_green_dark;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_holo_green_light = global::Pomodoro.Droid.Resource.Color.refractored_holo_green_light;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_holo_orange_dark = global::Pomodoro.Droid.Resource.Color.refractored_holo_orange_dark;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_holo_orange_light = global::Pomodoro.Droid.Resource.Color.refractored_holo_orange_light;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_holo_purple = global::Pomodoro.Droid.Resource.Color.refractored_holo_purple;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_holo_red_dark = global::Pomodoro.Droid.Resource.Color.refractored_holo_red_dark;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_holo_red_light = global::Pomodoro.Droid.Resource.Color.refractored_holo_red_light;
+			global::com.refractored.monodroidtoolkit.Resource.Dimension.progress_inner_size = global::Pomodoro.Droid.Resource.Dimension.progress_inner_size;
+			global::com.refractored.monodroidtoolkit.Resource.Drawable.pin_progress_pinned = global::Pomodoro.Droid.Resource.Drawable.pin_progress_pinned;
+			global::com.refractored.monodroidtoolkit.Resource.Drawable.pin_progress_shadow = global::Pomodoro.Droid.Resource.Drawable.pin_progress_shadow;
+			global::com.refractored.monodroidtoolkit.Resource.Drawable.pin_progress_unpinned = global::Pomodoro.Droid.Resource.Drawable.pin_progress_unpinned;
+			global::com.refractored.monodroidtoolkit.Resource.Drawable.scrubber_control_normal_holo = global::Pomodoro.Droid.Resource.Drawable.scrubber_control_normal_holo;
+			global::com.refractored.monodroidtoolkit.Resource.Drawable.scrubber_control_pressed_holo = global::Pomodoro.Droid.Resource.Drawable.scrubber_control_pressed_holo;
+			global::com.refractored.monodroidtoolkit.Resource.Id.bottom = global::Pomodoro.Droid.Resource.Id.bottom;
+			global::com.refractored.monodroidtoolkit.Resource.Id.center = global::Pomodoro.Droid.Resource.Id.center;
+			global::com.refractored.monodroidtoolkit.Resource.Id.center_horizontal = global::Pomodoro.Droid.Resource.Id.center_horizontal;
+			global::com.refractored.monodroidtoolkit.Resource.Id.center_vertical = global::Pomodoro.Droid.Resource.Id.center_vertical;
+			global::com.refractored.monodroidtoolkit.Resource.Id.clip = global::Pomodoro.Droid.Resource.Id.clip;
+			global::com.refractored.monodroidtoolkit.Resource.Id.clip_horizontal = global::Pomodoro.Droid.Resource.Id.clip_horizontal;
+			global::com.refractored.monodroidtoolkit.Resource.Id.clip_vertical = global::Pomodoro.Droid.Resource.Id.clip_vertical;
+			global::com.refractored.monodroidtoolkit.Resource.Id.end = global::Pomodoro.Droid.Resource.Id.end;
+			global::com.refractored.monodroidtoolkit.Resource.Id.fill = global::Pomodoro.Droid.Resource.Id.fill;
+			global::com.refractored.monodroidtoolkit.Resource.Id.fill_horizontal = global::Pomodoro.Droid.Resource.Id.fill_horizontal;
+			global::com.refractored.monodroidtoolkit.Resource.Id.fill_vertical = global::Pomodoro.Droid.Resource.Id.fill_vertical;
+			global::com.refractored.monodroidtoolkit.Resource.Id.left = global::Pomodoro.Droid.Resource.Id.left;
+			global::com.refractored.monodroidtoolkit.Resource.Id.right = global::Pomodoro.Droid.Resource.Id.right;
+			global::com.refractored.monodroidtoolkit.Resource.Id.start = global::Pomodoro.Droid.Resource.Id.start;
+			global::com.refractored.monodroidtoolkit.Resource.Id.top = global::Pomodoro.Droid.Resource.Id.top;
+			global::com.refractored.monodroidtoolkit.Resource.Integer.circular_indeterminent_interval = global::Pomodoro.Droid.Resource.Integer.circular_indeterminent_interval;
+			global::com.refractored.monodroidtoolkit.Resource.Integer.progressbutton_indeterminent_interval = global::Pomodoro.Droid.Resource.Integer.progressbutton_indeterminent_interval;
+			global::com.refractored.monodroidtoolkit.Resource.Style.CircularProgressBar = global::Pomodoro.Droid.Resource.Style.CircularProgressBar;
+			global::com.refractored.monodroidtoolkit.Resource.Style.CircularProgressBarLight = global::Pomodoro.Droid.Resource.Style.CircularProgressBarLight;
+			global::com.refractored.monodroidtoolkit.Resource.Style.ProgressButton = global::Pomodoro.Droid.Resource.Style.ProgressButton;
+			global::com.refractored.monodroidtoolkit.Resource.Style.ProgressButton_Pin = global::Pomodoro.Droid.Resource.Style.ProgressButton_Pin;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.HoloCircularProgressBar = global::Pomodoro.Droid.Resource.Styleable.HoloCircularProgressBar;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.HoloCircularProgressBar_circular_gravity = global::Pomodoro.Droid.Resource.Styleable.HoloCircularProgressBar_circular_gravity;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.HoloCircularProgressBar_circular_indeterminate = global::Pomodoro.Droid.Resource.Styleable.HoloCircularProgressBar_circular_indeterminate;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.HoloCircularProgressBar_circular_indeterminate_interval = global::Pomodoro.Droid.Resource.Styleable.HoloCircularProgressBar_circular_indeterminate_interval;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.HoloCircularProgressBar_circular_marker_progress = global::Pomodoro.Droid.Resource.Styleable.HoloCircularProgressBar_circular_marker_progress;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.HoloCircularProgressBar_circular_progress = global::Pomodoro.Droid.Resource.Styleable.HoloCircularProgressBar_circular_progress;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.HoloCircularProgressBar_circular_progress_background_color = global::Pomodoro.Droid.Resource.Styleable.HoloCircularProgressBar_circular_progress_background_color;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.HoloCircularProgressBar_circular_progress_color = global::Pomodoro.Droid.Resource.Styleable.HoloCircularProgressBar_circular_progress_color;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.HoloCircularProgressBar_circular_stroke_width = global::Pomodoro.Droid.Resource.Styleable.HoloCircularProgressBar_circular_stroke_width;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton = global::Pomodoro.Droid.Resource.Styleable.ProgressButton;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_android_clickable = global::Pomodoro.Droid.Resource.Styleable.ProgressButton_android_clickable;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_android_focusable = global::Pomodoro.Droid.Resource.Styleable.ProgressButton_android_focusable;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_android_selectableItemBackground = global::Pomodoro.Droid.Resource.Styleable.ProgressButton_android_selectableItemBackground;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_circleColor = global::Pomodoro.Droid.Resource.Styleable.ProgressButton_circleColor;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_indeterminate = global::Pomodoro.Droid.Resource.Styleable.ProgressButton_indeterminate;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_indeterminate_interval = global::Pomodoro.Droid.Resource.Styleable.ProgressButton_indeterminate_interval;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_innerSize = global::Pomodoro.Droid.Resource.Styleable.ProgressButton_innerSize;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_max = global::Pomodoro.Droid.Resource.Styleable.ProgressButton_max;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_pinned = global::Pomodoro.Droid.Resource.Styleable.ProgressButton_pinned;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_pinnedDrawable = global::Pomodoro.Droid.Resource.Styleable.ProgressButton_pinnedDrawable;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_progress = global::Pomodoro.Droid.Resource.Styleable.ProgressButton_progress;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_progressColor = global::Pomodoro.Droid.Resource.Styleable.ProgressButton_progressColor;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_shadowDrawable = global::Pomodoro.Droid.Resource.Styleable.ProgressButton_shadowDrawable;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_unpinnedDrawable = global::Pomodoro.Droid.Resource.Styleable.ProgressButton_unpinnedDrawable;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.Theme = global::Pomodoro.Droid.Resource.Styleable.Theme;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.Theme_circularProgressBarStyle = global::Pomodoro.Droid.Resource.Styleable.Theme_circularProgressBarStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::Pomodoro.Droid.Resource.Attribute.actionBarSize;
 		}
 		
@@ -358,6 +463,36 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f0100be
 			public const int checkedTextViewStyle = 2130772158;
 			
+			// aapt resource value: 0x7f010176
+			public const int circleColor = 2130772342;
+			
+			// aapt resource value: 0x7f010187
+			public const int circularProgressBarStyle = 2130772359;
+			
+			// aapt resource value: 0x7f01017f
+			public const int circular_gravity = 2130772351;
+			
+			// aapt resource value: 0x7f010185
+			public const int circular_indeterminate = 2130772357;
+			
+			// aapt resource value: 0x7f010186
+			public const int circular_indeterminate_interval = 2130772358;
+			
+			// aapt resource value: 0x7f010182
+			public const int circular_marker_progress = 2130772354;
+			
+			// aapt resource value: 0x7f010181
+			public const int circular_progress = 2130772353;
+			
+			// aapt resource value: 0x7f010184
+			public const int circular_progress_background_color = 2130772356;
+			
+			// aapt resource value: 0x7f010183
+			public const int circular_progress_color = 2130772355;
+			
+			// aapt resource value: 0x7f010180
+			public const int circular_stroke_width = 2130772352;
+			
 			// aapt resource value: 0x7f0100ee
 			public const int closeIcon = 2130772206;
 			
@@ -649,11 +784,20 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f010095
 			public const int imageButtonStyle = 2130772117;
 			
+			// aapt resource value: 0x7f01017d
+			public const int indeterminate = 2130772349;
+			
 			// aapt resource value: 0x7f010034
 			public const int indeterminateProgressStyle = 2130772020;
 			
+			// aapt resource value: 0x7f01017e
+			public const int indeterminate_interval = 2130772350;
+			
 			// aapt resource value: 0x7f010041
 			public const int initialActivityCount = 2130772033;
+			
+			// aapt resource value: 0x7f01017b
+			public const int innerSize = 2130772347;
 			
 			// aapt resource value: 0x7f010149
 			public const int insetForeground = 2130772297;
@@ -753,6 +897,9 @@ namespace Pomodoro.Droid
 			
 			// aapt resource value: 0x7f010110
 			public const int logoDescription = 2130772240;
+			
+			// aapt resource value: 0x7f010175
+			public const int max = 2130772341;
 			
 			// aapt resource value: 0x7f01014b
 			public const int maxActionInlineWidth = 2130772299;
@@ -859,6 +1006,12 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f010169
 			public const int passwordToggleTintMode = 2130772329;
 			
+			// aapt resource value: 0x7f01017c
+			public const int pinned = 2130772348;
+			
+			// aapt resource value: 0x7f010178
+			public const int pinnedDrawable = 2130772344;
+			
 			// aapt resource value: 0x7f010091
 			public const int popupMenuStyle = 2130772113;
 			
@@ -874,11 +1027,20 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f01013e
 			public const int pressedTranslationZ = 2130772286;
 			
+			// aapt resource value: 0x7f010174
+			public const int progress = 2130772340;
+			
 			// aapt resource value: 0x7f010035
 			public const int progressBarPadding = 2130772021;
 			
 			// aapt resource value: 0x7f010033
 			public const int progressBarStyle = 2130772019;
+			
+			// aapt resource value: 0x7f010173
+			public const int progressButtonStyle = 2130772339;
+			
+			// aapt resource value: 0x7f010177
+			public const int progressColor = 2130772343;
 			
 			// aapt resource value: 0x7f0100f5
 			public const int queryBackground = 2130772213;
@@ -927,6 +1089,9 @@ namespace Pomodoro.Droid
 			
 			// aapt resource value: 0x7f01008a
 			public const int selectableItemBackgroundBorderless = 2130772106;
+			
+			// aapt resource value: 0x7f01017a
+			public const int shadowDrawable = 2130772346;
 			
 			// aapt resource value: 0x7f0100dc
 			public const int showAsAction = 2130772188;
@@ -1186,6 +1351,9 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f0100fb
 			public const int trackTintMode = 2130772219;
 			
+			// aapt resource value: 0x7f010179
+			public const int unpinnedDrawable = 2130772345;
+			
 			// aapt resource value: 0x7f010140
 			public const int useCompatPadding = 2130772288;
 			
@@ -1263,44 +1431,44 @@ namespace Pomodoro.Droid
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7f0d004f
-			public const int abc_background_cache_hint_selector_material_dark = 2131558479;
+			// aapt resource value: 0x7f0d006e
+			public const int abc_background_cache_hint_selector_material_dark = 2131558510;
 			
-			// aapt resource value: 0x7f0d0050
-			public const int abc_background_cache_hint_selector_material_light = 2131558480;
+			// aapt resource value: 0x7f0d006f
+			public const int abc_background_cache_hint_selector_material_light = 2131558511;
 			
-			// aapt resource value: 0x7f0d0051
-			public const int abc_btn_colored_borderless_text_material = 2131558481;
+			// aapt resource value: 0x7f0d0070
+			public const int abc_btn_colored_borderless_text_material = 2131558512;
 			
-			// aapt resource value: 0x7f0d0052
-			public const int abc_btn_colored_text_material = 2131558482;
+			// aapt resource value: 0x7f0d0071
+			public const int abc_btn_colored_text_material = 2131558513;
 			
-			// aapt resource value: 0x7f0d0053
-			public const int abc_color_highlight_material = 2131558483;
+			// aapt resource value: 0x7f0d0072
+			public const int abc_color_highlight_material = 2131558514;
 			
-			// aapt resource value: 0x7f0d0054
-			public const int abc_hint_foreground_material_dark = 2131558484;
+			// aapt resource value: 0x7f0d0073
+			public const int abc_hint_foreground_material_dark = 2131558515;
 			
-			// aapt resource value: 0x7f0d0055
-			public const int abc_hint_foreground_material_light = 2131558485;
+			// aapt resource value: 0x7f0d0074
+			public const int abc_hint_foreground_material_light = 2131558516;
 			
 			// aapt resource value: 0x7f0d0004
 			public const int abc_input_method_navigation_guard = 2131558404;
 			
-			// aapt resource value: 0x7f0d0056
-			public const int abc_primary_text_disable_only_material_dark = 2131558486;
+			// aapt resource value: 0x7f0d0075
+			public const int abc_primary_text_disable_only_material_dark = 2131558517;
 			
-			// aapt resource value: 0x7f0d0057
-			public const int abc_primary_text_disable_only_material_light = 2131558487;
+			// aapt resource value: 0x7f0d0076
+			public const int abc_primary_text_disable_only_material_light = 2131558518;
 			
-			// aapt resource value: 0x7f0d0058
-			public const int abc_primary_text_material_dark = 2131558488;
+			// aapt resource value: 0x7f0d0077
+			public const int abc_primary_text_material_dark = 2131558519;
 			
-			// aapt resource value: 0x7f0d0059
-			public const int abc_primary_text_material_light = 2131558489;
+			// aapt resource value: 0x7f0d0078
+			public const int abc_primary_text_material_light = 2131558520;
 			
-			// aapt resource value: 0x7f0d005a
-			public const int abc_search_url_text = 2131558490;
+			// aapt resource value: 0x7f0d0079
+			public const int abc_search_url_text = 2131558521;
 			
 			// aapt resource value: 0x7f0d0005
 			public const int abc_search_url_text_normal = 2131558405;
@@ -1311,29 +1479,29 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f0d0007
 			public const int abc_search_url_text_selected = 2131558407;
 			
-			// aapt resource value: 0x7f0d005b
-			public const int abc_secondary_text_material_dark = 2131558491;
+			// aapt resource value: 0x7f0d007a
+			public const int abc_secondary_text_material_dark = 2131558522;
 			
-			// aapt resource value: 0x7f0d005c
-			public const int abc_secondary_text_material_light = 2131558492;
+			// aapt resource value: 0x7f0d007b
+			public const int abc_secondary_text_material_light = 2131558523;
 			
-			// aapt resource value: 0x7f0d005d
-			public const int abc_tint_btn_checkable = 2131558493;
+			// aapt resource value: 0x7f0d007c
+			public const int abc_tint_btn_checkable = 2131558524;
 			
-			// aapt resource value: 0x7f0d005e
-			public const int abc_tint_default = 2131558494;
+			// aapt resource value: 0x7f0d007d
+			public const int abc_tint_default = 2131558525;
 			
-			// aapt resource value: 0x7f0d005f
-			public const int abc_tint_edittext = 2131558495;
+			// aapt resource value: 0x7f0d007e
+			public const int abc_tint_edittext = 2131558526;
 			
-			// aapt resource value: 0x7f0d0060
-			public const int abc_tint_seek_thumb = 2131558496;
+			// aapt resource value: 0x7f0d007f
+			public const int abc_tint_seek_thumb = 2131558527;
 			
-			// aapt resource value: 0x7f0d0061
-			public const int abc_tint_spinner = 2131558497;
+			// aapt resource value: 0x7f0d0080
+			public const int abc_tint_spinner = 2131558528;
 			
-			// aapt resource value: 0x7f0d0062
-			public const int abc_tint_switch_track = 2131558498;
+			// aapt resource value: 0x7f0d0081
+			public const int abc_tint_switch_track = 2131558529;
 			
 			// aapt resource value: 0x7f0d0008
 			public const int accent_material_dark = 2131558408;
@@ -1389,20 +1557,20 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f0d0003
 			public const int cardview_shadow_start_color = 2131558403;
 			
-			// aapt resource value: 0x7f0d004e
-			public const int colorAccent = 2131558478;
+			// aapt resource value: 0x7f0d006d
+			public const int colorAccent = 2131558509;
 			
-			// aapt resource value: 0x7f0d004c
-			public const int colorPrimary = 2131558476;
+			// aapt resource value: 0x7f0d006b
+			public const int colorPrimary = 2131558507;
 			
-			// aapt resource value: 0x7f0d004d
-			public const int colorPrimaryDark = 2131558477;
+			// aapt resource value: 0x7f0d006c
+			public const int colorPrimaryDark = 2131558508;
 			
 			// aapt resource value: 0x7f0d0040
 			public const int design_bottom_navigation_shadow_color = 2131558464;
 			
-			// aapt resource value: 0x7f0d0063
-			public const int design_error = 2131558499;
+			// aapt resource value: 0x7f0d0082
+			public const int design_error = 2131558530;
 			
 			// aapt resource value: 0x7f0d0041
 			public const int design_fab_shadow_end_color = 2131558465;
@@ -1428,8 +1596,8 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f0d0048
 			public const int design_snackbar_background_color = 2131558472;
 			
-			// aapt resource value: 0x7f0d0064
-			public const int design_tint_password_toggle = 2131558500;
+			// aapt resource value: 0x7f0d0083
+			public const int design_tint_password_toggle = 2131558531;
 			
 			// aapt resource value: 0x7f0d0016
 			public const int dim_foreground_disabled_material_dark = 2131558422;
@@ -1458,8 +1626,8 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f0d001e
 			public const int highlighted_text_material_light = 2131558430;
 			
-			// aapt resource value: 0x7f0d004b
-			public const int launcher_background = 2131558475;
+			// aapt resource value: 0x7f0d006a
+			public const int launcher_background = 2131558506;
 			
 			// aapt resource value: 0x7f0d001f
 			public const int material_blue_grey_800 = 2131558431;
@@ -1530,6 +1698,99 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f0d0032
 			public const int primary_text_disabled_material_light = 2131558450;
 			
+			// aapt resource value: 0x7f0d004b
+			public const int progress_default_circle_color = 2131558475;
+			
+			// aapt resource value: 0x7f0d004c
+			public const int progress_default_progress_color = 2131558476;
+			
+			// aapt resource value: 0x7f0d004d
+			public const int refractored_background_dark = 2131558477;
+			
+			// aapt resource value: 0x7f0d0052
+			public const int refractored_background_holo_dark = 2131558482;
+			
+			// aapt resource value: 0x7f0d0053
+			public const int refractored_background_holo_light = 2131558483;
+			
+			// aapt resource value: 0x7f0d004e
+			public const int refractored_background_light = 2131558478;
+			
+			// aapt resource value: 0x7f0d004f
+			public const int refractored_bright_foreground_dark = 2131558479;
+			
+			// aapt resource value: 0x7f0d0051
+			public const int refractored_bright_foreground_dark_disabled = 2131558481;
+			
+			// aapt resource value: 0x7f0d0056
+			public const int refractored_bright_foreground_disabled_holo_dark = 2131558486;
+			
+			// aapt resource value: 0x7f0d0057
+			public const int refractored_bright_foreground_disabled_holo_light = 2131558487;
+			
+			// aapt resource value: 0x7f0d0054
+			public const int refractored_bright_foreground_holo_dark = 2131558484;
+			
+			// aapt resource value: 0x7f0d0055
+			public const int refractored_bright_foreground_holo_light = 2131558485;
+			
+			// aapt resource value: 0x7f0d0050
+			public const int refractored_bright_foreground_light = 2131558480;
+			
+			// aapt resource value: 0x7f0d0059
+			public const int refractored_dim_foreground_disabled_holo_dark = 2131558489;
+			
+			// aapt resource value: 0x7f0d005c
+			public const int refractored_dim_foreground_disabled_holo_light = 2131558492;
+			
+			// aapt resource value: 0x7f0d0058
+			public const int refractored_dim_foreground_holo_dark = 2131558488;
+			
+			// aapt resource value: 0x7f0d005b
+			public const int refractored_dim_foreground_holo_light = 2131558491;
+			
+			// aapt resource value: 0x7f0d005e
+			public const int refractored_highlighted_text_holo_dark = 2131558494;
+			
+			// aapt resource value: 0x7f0d005f
+			public const int refractored_highlighted_text_holo_light = 2131558495;
+			
+			// aapt resource value: 0x7f0d005a
+			public const int refractored_hint_foreground_holo_dark = 2131558490;
+			
+			// aapt resource value: 0x7f0d005d
+			public const int refractored_hint_foreground_holo_light = 2131558493;
+			
+			// aapt resource value: 0x7f0d0069
+			public const int refractored_holo_blue_bright = 2131558505;
+			
+			// aapt resource value: 0x7f0d0063
+			public const int refractored_holo_blue_dark = 2131558499;
+			
+			// aapt resource value: 0x7f0d0060
+			public const int refractored_holo_blue_light = 2131558496;
+			
+			// aapt resource value: 0x7f0d0064
+			public const int refractored_holo_green_dark = 2131558500;
+			
+			// aapt resource value: 0x7f0d0061
+			public const int refractored_holo_green_light = 2131558497;
+			
+			// aapt resource value: 0x7f0d0068
+			public const int refractored_holo_orange_dark = 2131558504;
+			
+			// aapt resource value: 0x7f0d0067
+			public const int refractored_holo_orange_light = 2131558503;
+			
+			// aapt resource value: 0x7f0d0066
+			public const int refractored_holo_purple = 2131558502;
+			
+			// aapt resource value: 0x7f0d0065
+			public const int refractored_holo_red_dark = 2131558501;
+			
+			// aapt resource value: 0x7f0d0062
+			public const int refractored_holo_red_light = 2131558498;
+			
 			// aapt resource value: 0x7f0d0033
 			public const int ripple_material_dark = 2131558451;
 			
@@ -1554,11 +1815,11 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f0d003a
 			public const int switch_thumb_disabled_material_light = 2131558458;
 			
-			// aapt resource value: 0x7f0d0065
-			public const int switch_thumb_material_dark = 2131558501;
+			// aapt resource value: 0x7f0d0084
+			public const int switch_thumb_material_dark = 2131558532;
 			
-			// aapt resource value: 0x7f0d0066
-			public const int switch_thumb_material_light = 2131558502;
+			// aapt resource value: 0x7f0d0085
+			public const int switch_thumb_material_light = 2131558533;
 			
 			// aapt resource value: 0x7f0d003b
 			public const int switch_thumb_normal_material_dark = 2131558459;
@@ -2053,6 +2314,9 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f0800a3
 			public const int notification_top_pad_large_text = 2131230883;
 			
+			// aapt resource value: 0x7f0800a4
+			public const int progress_inner_size = 2131230884;
+			
 			// aapt resource value: 0x7f080062
 			public const int tooltip_corner_radius = 2131230818;
 			
@@ -2342,26 +2606,26 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f020053
 			public const int avd_hide_password = 2130837587;
 			
-			// aapt resource value: 0x7f02012f
-			public const int avd_hide_password_1 = 2130837807;
+			// aapt resource value: 0x7f020134
+			public const int avd_hide_password_1 = 2130837812;
 			
-			// aapt resource value: 0x7f020130
-			public const int avd_hide_password_2 = 2130837808;
+			// aapt resource value: 0x7f020135
+			public const int avd_hide_password_2 = 2130837813;
 			
-			// aapt resource value: 0x7f020131
-			public const int avd_hide_password_3 = 2130837809;
+			// aapt resource value: 0x7f020136
+			public const int avd_hide_password_3 = 2130837814;
 			
 			// aapt resource value: 0x7f020054
 			public const int avd_show_password = 2130837588;
 			
-			// aapt resource value: 0x7f020132
-			public const int avd_show_password_1 = 2130837810;
+			// aapt resource value: 0x7f020137
+			public const int avd_show_password_1 = 2130837815;
 			
-			// aapt resource value: 0x7f020133
-			public const int avd_show_password_2 = 2130837811;
+			// aapt resource value: 0x7f020138
+			public const int avd_show_password_2 = 2130837816;
 			
-			// aapt resource value: 0x7f020134
-			public const int avd_show_password_3 = 2130837812;
+			// aapt resource value: 0x7f020139
+			public const int avd_show_password_3 = 2130837817;
 			
 			// aapt resource value: 0x7f020055
 			public const int design_bottom_navigation_item_background = 2130837589;
@@ -2999,11 +3263,11 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f020128
 			public const int notification_icon_background = 2130837800;
 			
-			// aapt resource value: 0x7f02012d
-			public const int notification_template_icon_bg = 2130837805;
+			// aapt resource value: 0x7f020132
+			public const int notification_template_icon_bg = 2130837810;
 			
-			// aapt resource value: 0x7f02012e
-			public const int notification_template_icon_low_bg = 2130837806;
+			// aapt resource value: 0x7f020133
+			public const int notification_template_icon_low_bg = 2130837811;
 			
 			// aapt resource value: 0x7f020129
 			public const int notification_tile_bg = 2130837801;
@@ -3012,10 +3276,25 @@ namespace Pomodoro.Droid
 			public const int notify_panel_notification_icon_bg = 2130837802;
 			
 			// aapt resource value: 0x7f02012b
-			public const int tooltip_frame_dark = 2130837803;
+			public const int pin_progress_pinned = 2130837803;
 			
 			// aapt resource value: 0x7f02012c
-			public const int tooltip_frame_light = 2130837804;
+			public const int pin_progress_shadow = 2130837804;
+			
+			// aapt resource value: 0x7f02012d
+			public const int pin_progress_unpinned = 2130837805;
+			
+			// aapt resource value: 0x7f02012e
+			public const int scrubber_control_normal_holo = 2130837806;
+			
+			// aapt resource value: 0x7f02012f
+			public const int scrubber_control_pressed_holo = 2130837807;
+			
+			// aapt resource value: 0x7f020130
+			public const int tooltip_frame_dark = 2130837808;
+			
+			// aapt resource value: 0x7f020131
+			public const int tooltip_frame_light = 2130837809;
 			
 			static Drawable()
 			{
@@ -3048,41 +3327,41 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f090037
 			public const int SYM = 2131296311;
 			
-			// aapt resource value: 0x7f0900b6
-			public const int action0 = 2131296438;
+			// aapt resource value: 0x7f0900b7
+			public const int action0 = 2131296439;
 			
-			// aapt resource value: 0x7f09007c
-			public const int action_bar = 2131296380;
+			// aapt resource value: 0x7f09007d
+			public const int action_bar = 2131296381;
 			
 			// aapt resource value: 0x7f090001
 			public const int action_bar_activity_content = 2131296257;
 			
-			// aapt resource value: 0x7f09007b
-			public const int action_bar_container = 2131296379;
+			// aapt resource value: 0x7f09007c
+			public const int action_bar_container = 2131296380;
 			
-			// aapt resource value: 0x7f090077
-			public const int action_bar_root = 2131296375;
+			// aapt resource value: 0x7f090078
+			public const int action_bar_root = 2131296376;
 			
 			// aapt resource value: 0x7f090002
 			public const int action_bar_spinner = 2131296258;
 			
+			// aapt resource value: 0x7f09005c
+			public const int action_bar_subtitle = 2131296348;
+			
 			// aapt resource value: 0x7f09005b
-			public const int action_bar_subtitle = 2131296347;
-			
-			// aapt resource value: 0x7f09005a
-			public const int action_bar_title = 2131296346;
-			
-			// aapt resource value: 0x7f0900b3
-			public const int action_container = 2131296435;
-			
-			// aapt resource value: 0x7f09007d
-			public const int action_context_bar = 2131296381;
-			
-			// aapt resource value: 0x7f0900ba
-			public const int action_divider = 2131296442;
+			public const int action_bar_title = 2131296347;
 			
 			// aapt resource value: 0x7f0900b4
-			public const int action_image = 2131296436;
+			public const int action_container = 2131296436;
+			
+			// aapt resource value: 0x7f09007e
+			public const int action_context_bar = 2131296382;
+			
+			// aapt resource value: 0x7f0900bb
+			public const int action_divider = 2131296443;
+			
+			// aapt resource value: 0x7f0900b5
+			public const int action_image = 2131296437;
 			
 			// aapt resource value: 0x7f090003
 			public const int action_menu_divider = 2131296259;
@@ -3090,29 +3369,29 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f090004
 			public const int action_menu_presenter = 2131296260;
 			
+			// aapt resource value: 0x7f09007a
+			public const int action_mode_bar = 2131296378;
+			
 			// aapt resource value: 0x7f090079
-			public const int action_mode_bar = 2131296377;
-			
-			// aapt resource value: 0x7f090078
-			public const int action_mode_bar_stub = 2131296376;
-			
-			// aapt resource value: 0x7f09005c
-			public const int action_mode_close_button = 2131296348;
-			
-			// aapt resource value: 0x7f0900b5
-			public const int action_text = 2131296437;
-			
-			// aapt resource value: 0x7f0900c3
-			public const int actions = 2131296451;
+			public const int action_mode_bar_stub = 2131296377;
 			
 			// aapt resource value: 0x7f09005d
-			public const int activity_chooser_view_content = 2131296349;
+			public const int action_mode_close_button = 2131296349;
+			
+			// aapt resource value: 0x7f0900b6
+			public const int action_text = 2131296438;
+			
+			// aapt resource value: 0x7f0900c4
+			public const int actions = 2131296452;
+			
+			// aapt resource value: 0x7f09005e
+			public const int activity_chooser_view_content = 2131296350;
 			
 			// aapt resource value: 0x7f090027
 			public const int add = 2131296295;
 			
-			// aapt resource value: 0x7f090070
-			public const int alertTitle = 2131296368;
+			// aapt resource value: 0x7f090071
+			public const int alertTitle = 2131296369;
 			
 			// aapt resource value: 0x7f090052
 			public const int all = 2131296338;
@@ -3135,11 +3414,11 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f09003d
 			public const int bottom = 2131296317;
 			
-			// aapt resource value: 0x7f090063
-			public const int buttonPanel = 2131296355;
+			// aapt resource value: 0x7f090064
+			public const int buttonPanel = 2131296356;
 			
-			// aapt resource value: 0x7f0900b7
-			public const int cancel_action = 2131296439;
+			// aapt resource value: 0x7f0900b8
+			public const int cancel_action = 2131296440;
 			
 			// aapt resource value: 0x7f090045
 			public const int center = 2131296325;
@@ -3150,11 +3429,14 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f090047
 			public const int center_vertical = 2131296327;
 			
-			// aapt resource value: 0x7f090073
-			public const int checkbox = 2131296371;
+			// aapt resource value: 0x7f090074
+			public const int checkbox = 2131296372;
 			
-			// aapt resource value: 0x7f0900bf
-			public const int chronometer = 2131296447;
+			// aapt resource value: 0x7f0900c0
+			public const int chronometer = 2131296448;
+			
+			// aapt resource value: 0x7f09005a
+			public const int clip = 2131296346;
 			
 			// aapt resource value: 0x7f09004e
 			public const int clip_horizontal = 2131296334;
@@ -3165,53 +3447,53 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f090039
 			public const int collapseActionView = 2131296313;
 			
-			// aapt resource value: 0x7f09008d
-			public const int container = 2131296397;
-			
-			// aapt resource value: 0x7f090066
-			public const int contentPanel = 2131296358;
-			
 			// aapt resource value: 0x7f09008e
-			public const int coordinator = 2131296398;
+			public const int container = 2131296398;
+			
+			// aapt resource value: 0x7f090067
+			public const int contentPanel = 2131296359;
+			
+			// aapt resource value: 0x7f09008f
+			public const int coordinator = 2131296399;
+			
+			// aapt resource value: 0x7f09006e
+			public const int custom = 2131296366;
 			
 			// aapt resource value: 0x7f09006d
-			public const int custom = 2131296365;
+			public const int customPanel = 2131296365;
 			
-			// aapt resource value: 0x7f09006c
-			public const int customPanel = 2131296364;
+			// aapt resource value: 0x7f09007b
+			public const int decor_content_parent = 2131296379;
 			
-			// aapt resource value: 0x7f09007a
-			public const int decor_content_parent = 2131296378;
+			// aapt resource value: 0x7f090061
+			public const int default_activity_button = 2131296353;
 			
-			// aapt resource value: 0x7f090060
-			public const int default_activity_button = 2131296352;
+			// aapt resource value: 0x7f090091
+			public const int design_bottom_sheet = 2131296401;
 			
-			// aapt resource value: 0x7f090090
-			public const int design_bottom_sheet = 2131296400;
+			// aapt resource value: 0x7f090098
+			public const int design_menu_item_action_area = 2131296408;
 			
 			// aapt resource value: 0x7f090097
-			public const int design_menu_item_action_area = 2131296407;
+			public const int design_menu_item_action_area_stub = 2131296407;
 			
 			// aapt resource value: 0x7f090096
-			public const int design_menu_item_action_area_stub = 2131296406;
+			public const int design_menu_item_text = 2131296406;
 			
 			// aapt resource value: 0x7f090095
-			public const int design_menu_item_text = 2131296405;
-			
-			// aapt resource value: 0x7f090094
-			public const int design_navigation_view = 2131296404;
+			public const int design_navigation_view = 2131296405;
 			
 			// aapt resource value: 0x7f090020
 			public const int disableHome = 2131296288;
 			
-			// aapt resource value: 0x7f09007e
-			public const int edit_query = 2131296382;
+			// aapt resource value: 0x7f09007f
+			public const int edit_query = 2131296383;
 			
 			// aapt resource value: 0x7f090030
 			public const int end = 2131296304;
 			
-			// aapt resource value: 0x7f0900c5
-			public const int end_padder = 2131296453;
+			// aapt resource value: 0x7f0900c6
+			public const int end_padder = 2131296454;
 			
 			// aapt resource value: 0x7f09003f
 			public const int enterAlways = 2131296319;
@@ -3222,11 +3504,11 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f090041
 			public const int exitUntilCollapsed = 2131296321;
 			
-			// aapt resource value: 0x7f09005e
-			public const int expand_activities_button = 2131296350;
+			// aapt resource value: 0x7f09005f
+			public const int expand_activities_button = 2131296351;
 			
-			// aapt resource value: 0x7f090072
-			public const int expanded_menu = 2131296370;
+			// aapt resource value: 0x7f090073
+			public const int expanded_menu = 2131296371;
 			
 			// aapt resource value: 0x7f090050
 			public const int fill = 2131296336;
@@ -3252,20 +3534,20 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f090021
 			public const int homeAsUp = 2131296289;
 			
-			// aapt resource value: 0x7f090062
-			public const int icon = 2131296354;
+			// aapt resource value: 0x7f090063
+			public const int icon = 2131296355;
 			
-			// aapt resource value: 0x7f0900c4
-			public const int icon_group = 2131296452;
+			// aapt resource value: 0x7f0900c5
+			public const int icon_group = 2131296453;
 			
 			// aapt resource value: 0x7f09003a
 			public const int ifRoom = 2131296314;
 			
-			// aapt resource value: 0x7f09005f
-			public const int image = 2131296351;
+			// aapt resource value: 0x7f090060
+			public const int image = 2131296352;
 			
-			// aapt resource value: 0x7f0900c0
-			public const int info = 2131296448;
+			// aapt resource value: 0x7f0900c1
+			public const int info = 2131296449;
 			
 			// aapt resource value: 0x7f090059
 			public const int italic = 2131296345;
@@ -3273,8 +3555,8 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f090000
 			public const int item_touch_helper_previous_elevation = 2131296256;
 			
-			// aapt resource value: 0x7f09008c
-			public const int largeLabel = 2131296396;
+			// aapt resource value: 0x7f09008d
+			public const int largeLabel = 2131296397;
 			
 			// aapt resource value: 0x7f090049
 			public const int left = 2131296329;
@@ -3288,17 +3570,17 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f09001d
 			public const int listMode = 2131296285;
 			
-			// aapt resource value: 0x7f090061
-			public const int list_item = 2131296353;
+			// aapt resource value: 0x7f090062
+			public const int list_item = 2131296354;
 			
-			// aapt resource value: 0x7f0900ca
-			public const int masked = 2131296458;
+			// aapt resource value: 0x7f0900cb
+			public const int masked = 2131296459;
 			
-			// aapt resource value: 0x7f0900b9
-			public const int media_actions = 2131296441;
+			// aapt resource value: 0x7f0900ba
+			public const int media_actions = 2131296442;
 			
-			// aapt resource value: 0x7f0900c8
-			public const int message = 2131296456;
+			// aapt resource value: 0x7f0900c9
+			public const int message = 2131296457;
 			
 			// aapt resource value: 0x7f090031
 			public const int middle = 2131296305;
@@ -3306,86 +3588,86 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f090053
 			public const int mini = 2131296339;
 			
-			// aapt resource value: 0x7f0900a5
-			public const int mr_art = 2131296421;
-			
-			// aapt resource value: 0x7f09009a
-			public const int mr_chooser_list = 2131296410;
-			
-			// aapt resource value: 0x7f09009d
-			public const int mr_chooser_route_desc = 2131296413;
+			// aapt resource value: 0x7f0900a6
+			public const int mr_art = 2131296422;
 			
 			// aapt resource value: 0x7f09009b
-			public const int mr_chooser_route_icon = 2131296411;
-			
-			// aapt resource value: 0x7f09009c
-			public const int mr_chooser_route_name = 2131296412;
-			
-			// aapt resource value: 0x7f090099
-			public const int mr_chooser_title = 2131296409;
-			
-			// aapt resource value: 0x7f0900a2
-			public const int mr_close = 2131296418;
-			
-			// aapt resource value: 0x7f0900a8
-			public const int mr_control_divider = 2131296424;
-			
-			// aapt resource value: 0x7f0900ae
-			public const int mr_control_playback_ctrl = 2131296430;
-			
-			// aapt resource value: 0x7f0900b1
-			public const int mr_control_subtitle = 2131296433;
-			
-			// aapt resource value: 0x7f0900b0
-			public const int mr_control_title = 2131296432;
-			
-			// aapt resource value: 0x7f0900af
-			public const int mr_control_title_container = 2131296431;
-			
-			// aapt resource value: 0x7f0900a3
-			public const int mr_custom_control = 2131296419;
-			
-			// aapt resource value: 0x7f0900a4
-			public const int mr_default_control = 2131296420;
-			
-			// aapt resource value: 0x7f09009f
-			public const int mr_dialog_area = 2131296415;
+			public const int mr_chooser_list = 2131296411;
 			
 			// aapt resource value: 0x7f09009e
-			public const int mr_expandable_area = 2131296414;
+			public const int mr_chooser_route_desc = 2131296414;
 			
-			// aapt resource value: 0x7f0900b2
-			public const int mr_group_expand_collapse = 2131296434;
+			// aapt resource value: 0x7f09009c
+			public const int mr_chooser_route_icon = 2131296412;
 			
-			// aapt resource value: 0x7f0900a6
-			public const int mr_media_main_control = 2131296422;
+			// aapt resource value: 0x7f09009d
+			public const int mr_chooser_route_name = 2131296413;
 			
-			// aapt resource value: 0x7f0900a1
-			public const int mr_name = 2131296417;
+			// aapt resource value: 0x7f09009a
+			public const int mr_chooser_title = 2131296410;
 			
-			// aapt resource value: 0x7f0900a7
-			public const int mr_playback_control = 2131296423;
-			
-			// aapt resource value: 0x7f0900a0
-			public const int mr_title_bar = 2131296416;
+			// aapt resource value: 0x7f0900a3
+			public const int mr_close = 2131296419;
 			
 			// aapt resource value: 0x7f0900a9
-			public const int mr_volume_control = 2131296425;
+			public const int mr_control_divider = 2131296425;
+			
+			// aapt resource value: 0x7f0900af
+			public const int mr_control_playback_ctrl = 2131296431;
+			
+			// aapt resource value: 0x7f0900b2
+			public const int mr_control_subtitle = 2131296434;
+			
+			// aapt resource value: 0x7f0900b1
+			public const int mr_control_title = 2131296433;
+			
+			// aapt resource value: 0x7f0900b0
+			public const int mr_control_title_container = 2131296432;
+			
+			// aapt resource value: 0x7f0900a4
+			public const int mr_custom_control = 2131296420;
+			
+			// aapt resource value: 0x7f0900a5
+			public const int mr_default_control = 2131296421;
+			
+			// aapt resource value: 0x7f0900a0
+			public const int mr_dialog_area = 2131296416;
+			
+			// aapt resource value: 0x7f09009f
+			public const int mr_expandable_area = 2131296415;
+			
+			// aapt resource value: 0x7f0900b3
+			public const int mr_group_expand_collapse = 2131296435;
+			
+			// aapt resource value: 0x7f0900a7
+			public const int mr_media_main_control = 2131296423;
+			
+			// aapt resource value: 0x7f0900a2
+			public const int mr_name = 2131296418;
+			
+			// aapt resource value: 0x7f0900a8
+			public const int mr_playback_control = 2131296424;
+			
+			// aapt resource value: 0x7f0900a1
+			public const int mr_title_bar = 2131296417;
 			
 			// aapt resource value: 0x7f0900aa
-			public const int mr_volume_group_list = 2131296426;
+			public const int mr_volume_control = 2131296426;
 			
-			// aapt resource value: 0x7f0900ac
-			public const int mr_volume_item_icon = 2131296428;
+			// aapt resource value: 0x7f0900ab
+			public const int mr_volume_group_list = 2131296427;
 			
 			// aapt resource value: 0x7f0900ad
-			public const int mr_volume_slider = 2131296429;
+			public const int mr_volume_item_icon = 2131296429;
+			
+			// aapt resource value: 0x7f0900ae
+			public const int mr_volume_slider = 2131296430;
 			
 			// aapt resource value: 0x7f090028
 			public const int multiply = 2131296296;
 			
-			// aapt resource value: 0x7f090093
-			public const int navigation_header_container = 2131296403;
+			// aapt resource value: 0x7f090094
+			public const int navigation_header_container = 2131296404;
 			
 			// aapt resource value: 0x7f09003b
 			public const int never = 2131296315;
@@ -3396,20 +3678,20 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f09001e
 			public const int normal = 2131296286;
 			
-			// aapt resource value: 0x7f0900c2
-			public const int notification_background = 2131296450;
+			// aapt resource value: 0x7f0900c3
+			public const int notification_background = 2131296451;
+			
+			// aapt resource value: 0x7f0900bd
+			public const int notification_main_column = 2131296445;
 			
 			// aapt resource value: 0x7f0900bc
-			public const int notification_main_column = 2131296444;
-			
-			// aapt resource value: 0x7f0900bb
-			public const int notification_main_column_container = 2131296443;
+			public const int notification_main_column_container = 2131296444;
 			
 			// aapt resource value: 0x7f09004c
 			public const int parallax = 2131296332;
 			
-			// aapt resource value: 0x7f090065
-			public const int parentPanel = 2131296357;
+			// aapt resource value: 0x7f090066
+			public const int parentPanel = 2131296358;
 			
 			// aapt resource value: 0x7f09000b
 			public const int parent_matrix = 2131296267;
@@ -3423,17 +3705,17 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f090007
 			public const int progress_horizontal = 2131296263;
 			
-			// aapt resource value: 0x7f090075
-			public const int radio = 2131296373;
+			// aapt resource value: 0x7f090076
+			public const int radio = 2131296374;
 			
 			// aapt resource value: 0x7f09004a
 			public const int right = 2131296330;
 			
-			// aapt resource value: 0x7f0900c1
-			public const int right_icon = 2131296449;
+			// aapt resource value: 0x7f0900c2
+			public const int right_icon = 2131296450;
 			
-			// aapt resource value: 0x7f0900bd
-			public const int right_side = 2131296445;
+			// aapt resource value: 0x7f0900be
+			public const int right_side = 2131296446;
 			
 			// aapt resource value: 0x7f09000c
 			public const int save_image_matrix = 2131296268;
@@ -3450,53 +3732,53 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f090042
 			public const int scroll = 2131296322;
 			
-			// aapt resource value: 0x7f09006b
-			public const int scrollIndicatorDown = 2131296363;
-			
-			// aapt resource value: 0x7f090067
-			public const int scrollIndicatorUp = 2131296359;
+			// aapt resource value: 0x7f09006c
+			public const int scrollIndicatorDown = 2131296364;
 			
 			// aapt resource value: 0x7f090068
-			public const int scrollView = 2131296360;
+			public const int scrollIndicatorUp = 2131296360;
+			
+			// aapt resource value: 0x7f090069
+			public const int scrollView = 2131296361;
 			
 			// aapt resource value: 0x7f090055
 			public const int scrollable = 2131296341;
 			
-			// aapt resource value: 0x7f090080
-			public const int search_badge = 2131296384;
-			
-			// aapt resource value: 0x7f09007f
-			public const int search_bar = 2131296383;
-			
 			// aapt resource value: 0x7f090081
-			public const int search_button = 2131296385;
+			public const int search_badge = 2131296385;
 			
-			// aapt resource value: 0x7f090086
-			public const int search_close_btn = 2131296390;
+			// aapt resource value: 0x7f090080
+			public const int search_bar = 2131296384;
 			
 			// aapt resource value: 0x7f090082
-			public const int search_edit_frame = 2131296386;
+			public const int search_button = 2131296386;
 			
-			// aapt resource value: 0x7f090088
-			public const int search_go_btn = 2131296392;
+			// aapt resource value: 0x7f090087
+			public const int search_close_btn = 2131296391;
 			
 			// aapt resource value: 0x7f090083
-			public const int search_mag_icon = 2131296387;
-			
-			// aapt resource value: 0x7f090084
-			public const int search_plate = 2131296388;
-			
-			// aapt resource value: 0x7f090085
-			public const int search_src_text = 2131296389;
+			public const int search_edit_frame = 2131296387;
 			
 			// aapt resource value: 0x7f090089
-			public const int search_voice_btn = 2131296393;
+			public const int search_go_btn = 2131296393;
+			
+			// aapt resource value: 0x7f090084
+			public const int search_mag_icon = 2131296388;
+			
+			// aapt resource value: 0x7f090085
+			public const int search_plate = 2131296389;
+			
+			// aapt resource value: 0x7f090086
+			public const int search_src_text = 2131296390;
 			
 			// aapt resource value: 0x7f09008a
-			public const int select_dialog_listview = 2131296394;
+			public const int search_voice_btn = 2131296394;
 			
-			// aapt resource value: 0x7f090074
-			public const int shortcut = 2131296372;
+			// aapt resource value: 0x7f09008b
+			public const int select_dialog_listview = 2131296395;
+			
+			// aapt resource value: 0x7f090075
+			public const int shortcut = 2131296373;
 			
 			// aapt resource value: 0x7f090023
 			public const int showCustom = 2131296291;
@@ -3507,23 +3789,23 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f090025
 			public const int showTitle = 2131296293;
 			
-			// aapt resource value: 0x7f0900c6
-			public const int sliding_tabs = 2131296454;
+			// aapt resource value: 0x7f0900c7
+			public const int sliding_tabs = 2131296455;
 			
-			// aapt resource value: 0x7f09008b
-			public const int smallLabel = 2131296395;
+			// aapt resource value: 0x7f09008c
+			public const int smallLabel = 2131296396;
+			
+			// aapt resource value: 0x7f090093
+			public const int snackbar_action = 2131296403;
 			
 			// aapt resource value: 0x7f090092
-			public const int snackbar_action = 2131296402;
-			
-			// aapt resource value: 0x7f090091
-			public const int snackbar_text = 2131296401;
+			public const int snackbar_text = 2131296402;
 			
 			// aapt resource value: 0x7f090043
 			public const int snap = 2131296323;
 			
-			// aapt resource value: 0x7f090064
-			public const int spacer = 2131296356;
+			// aapt resource value: 0x7f090065
+			public const int spacer = 2131296357;
 			
 			// aapt resource value: 0x7f090008
 			public const int split_action_bar = 2131296264;
@@ -3540,14 +3822,14 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f09004b
 			public const int start = 2131296331;
 			
-			// aapt resource value: 0x7f0900b8
-			public const int status_bar_latest_event_content = 2131296440;
+			// aapt resource value: 0x7f0900b9
+			public const int status_bar_latest_event_content = 2131296441;
 			
-			// aapt resource value: 0x7f090076
-			public const int submenuarrow = 2131296374;
+			// aapt resource value: 0x7f090077
+			public const int submenuarrow = 2131296375;
 			
-			// aapt resource value: 0x7f090087
-			public const int submit_area = 2131296391;
+			// aapt resource value: 0x7f090088
+			public const int submit_area = 2131296392;
 			
 			// aapt resource value: 0x7f09001f
 			public const int tabMode = 2131296287;
@@ -3561,14 +3843,14 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f09001b
 			public const int text2 = 2131296283;
 			
+			// aapt resource value: 0x7f09006b
+			public const int textSpacerNoButtons = 2131296363;
+			
 			// aapt resource value: 0x7f09006a
-			public const int textSpacerNoButtons = 2131296362;
+			public const int textSpacerNoTitle = 2131296362;
 			
-			// aapt resource value: 0x7f090069
-			public const int textSpacerNoTitle = 2131296361;
-			
-			// aapt resource value: 0x7f090098
-			public const int text_input_password_toggle = 2131296408;
+			// aapt resource value: 0x7f090099
+			public const int text_input_password_toggle = 2131296409;
 			
 			// aapt resource value: 0x7f090014
 			public const int textinput_counter = 2131296276;
@@ -3576,29 +3858,29 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f090015
 			public const int textinput_error = 2131296277;
 			
-			// aapt resource value: 0x7f0900be
-			public const int time = 2131296446;
+			// aapt resource value: 0x7f0900bf
+			public const int time = 2131296447;
 			
 			// aapt resource value: 0x7f09001c
 			public const int title = 2131296284;
 			
-			// aapt resource value: 0x7f090071
-			public const int titleDividerNoCustom = 2131296369;
+			// aapt resource value: 0x7f090072
+			public const int titleDividerNoCustom = 2131296370;
 			
-			// aapt resource value: 0x7f09006f
-			public const int title_template = 2131296367;
+			// aapt resource value: 0x7f090070
+			public const int title_template = 2131296368;
 			
-			// aapt resource value: 0x7f0900c7
-			public const int toolbar = 2131296455;
+			// aapt resource value: 0x7f0900c8
+			public const int toolbar = 2131296456;
 			
 			// aapt resource value: 0x7f09003e
 			public const int top = 2131296318;
 			
-			// aapt resource value: 0x7f09006e
-			public const int topPanel = 2131296366;
+			// aapt resource value: 0x7f09006f
+			public const int topPanel = 2131296367;
 			
-			// aapt resource value: 0x7f09008f
-			public const int touch_outside = 2131296399;
+			// aapt resource value: 0x7f090090
+			public const int touch_outside = 2131296400;
 			
 			// aapt resource value: 0x7f09000f
 			public const int transition_current_scene = 2131296271;
@@ -3627,11 +3909,11 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f090016
 			public const int view_offset_helper = 2131296278;
 			
-			// aapt resource value: 0x7f0900c9
-			public const int visible = 2131296457;
+			// aapt resource value: 0x7f0900ca
+			public const int visible = 2131296458;
 			
-			// aapt resource value: 0x7f0900ab
-			public const int volume_item_container = 2131296427;
+			// aapt resource value: 0x7f0900ac
+			public const int volume_item_container = 2131296428;
 			
 			// aapt resource value: 0x7f09003c
 			public const int withText = 2131296316;
@@ -3667,6 +3949,9 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f0b0005
 			public const int cancel_button_image_alpha = 2131427333;
 			
+			// aapt resource value: 0x7f0b000e
+			public const int circular_indeterminent_interval = 2131427342;
+			
 			// aapt resource value: 0x7f0b0006
 			public const int config_tooltipAnimTime = 2131427334;
 			
@@ -3684,6 +3969,9 @@ namespace Pomodoro.Droid
 			
 			// aapt resource value: 0x7f0b0002
 			public const int mr_controller_volume_group_list_fade_out_duration_ms = 2131427330;
+			
+			// aapt resource value: 0x7f0b000d
+			public const int progressbutton_indeterminent_interval = 2131427341;
 			
 			// aapt resource value: 0x7f0b000b
 			public const int show_password_duration = 2131427339;
@@ -4173,8 +4461,8 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f0c016e
 			public const int Animation_Design_BottomSheetDialog = 2131493230;
 			
-			// aapt resource value: 0x7f0c0191
-			public const int AppCompatDialogStyle = 2131493265;
+			// aapt resource value: 0x7f0c0195
+			public const int AppCompatDialogStyle = 2131493269;
 			
 			// aapt resource value: 0x7f0c00a9
 			public const int Base_AlertDialog_AppCompat = 2131493033;
@@ -4677,11 +4965,17 @@ namespace Pomodoro.Droid
 			// aapt resource value: 0x7f0c000e
 			public const int CardView_Light = 2131492878;
 			
-			// aapt resource value: 0x7f0c018f
-			public const int MainTheme = 2131493263;
+			// aapt resource value: 0x7f0c0191
+			public const int CircularProgressBar = 2131493265;
 			
-			// aapt resource value: 0x7f0c0190
-			public const int MainTheme_Base = 2131493264;
+			// aapt resource value: 0x7f0c0192
+			public const int CircularProgressBarLight = 2131493266;
+			
+			// aapt resource value: 0x7f0c0193
+			public const int MainTheme = 2131493267;
+			
+			// aapt resource value: 0x7f0c0194
+			public const int MainTheme_Base = 2131493268;
 			
 			// aapt resource value: 0x7f0c002d
 			public const int Platform_AppCompat = 2131492909;
@@ -4724,6 +5018,12 @@ namespace Pomodoro.Droid
 			
 			// aapt resource value: 0x7f0c0031
 			public const int Platform_Widget_AppCompat_Spinner = 2131492913;
+			
+			// aapt resource value: 0x7f0c018f
+			public const int ProgressButton = 2131493263;
+			
+			// aapt resource value: 0x7f0c0190
+			public const int ProgressButton_Pin = 2131493264;
 			
 			// aapt resource value: 0x7f0c003a
 			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2131492922;
@@ -6586,6 +6886,40 @@ namespace Pomodoro.Droid
 			// aapt resource value: 2
 			public const int ForegroundLinearLayout_foregroundInsidePadding = 2;
 			
+			public static int[] HoloCircularProgressBar = new int[] {
+					2130772351,
+					2130772352,
+					2130772353,
+					2130772354,
+					2130772355,
+					2130772356,
+					2130772357,
+					2130772358};
+			
+			// aapt resource value: 0
+			public const int HoloCircularProgressBar_circular_gravity = 0;
+			
+			// aapt resource value: 6
+			public const int HoloCircularProgressBar_circular_indeterminate = 6;
+			
+			// aapt resource value: 7
+			public const int HoloCircularProgressBar_circular_indeterminate_interval = 7;
+			
+			// aapt resource value: 3
+			public const int HoloCircularProgressBar_circular_marker_progress = 3;
+			
+			// aapt resource value: 2
+			public const int HoloCircularProgressBar_circular_progress = 2;
+			
+			// aapt resource value: 5
+			public const int HoloCircularProgressBar_circular_progress_background_color = 5;
+			
+			// aapt resource value: 4
+			public const int HoloCircularProgressBar_circular_progress_color = 4;
+			
+			// aapt resource value: 1
+			public const int HoloCircularProgressBar_circular_stroke_width = 1;
+			
 			public static int[] LinearLayoutCompat = new int[] {
 					16842927,
 					16842948,
@@ -6889,6 +7223,64 @@ namespace Pomodoro.Droid
 			
 			// aapt resource value: 0
 			public const int PopupWindowBackgroundState_state_above_anchor = 0;
+			
+			public static int[] ProgressButton = new int[] {
+					16842970,
+					16842981,
+					16843534,
+					2130772340,
+					2130772341,
+					2130772342,
+					2130772343,
+					2130772344,
+					2130772345,
+					2130772346,
+					2130772347,
+					2130772348,
+					2130772349,
+					2130772350};
+			
+			// aapt resource value: 1
+			public const int ProgressButton_android_clickable = 1;
+			
+			// aapt resource value: 0
+			public const int ProgressButton_android_focusable = 0;
+			
+			// aapt resource value: 2
+			public const int ProgressButton_android_selectableItemBackground = 2;
+			
+			// aapt resource value: 5
+			public const int ProgressButton_circleColor = 5;
+			
+			// aapt resource value: 12
+			public const int ProgressButton_indeterminate = 12;
+			
+			// aapt resource value: 13
+			public const int ProgressButton_indeterminate_interval = 13;
+			
+			// aapt resource value: 10
+			public const int ProgressButton_innerSize = 10;
+			
+			// aapt resource value: 4
+			public const int ProgressButton_max = 4;
+			
+			// aapt resource value: 11
+			public const int ProgressButton_pinned = 11;
+			
+			// aapt resource value: 7
+			public const int ProgressButton_pinnedDrawable = 7;
+			
+			// aapt resource value: 3
+			public const int ProgressButton_progress = 3;
+			
+			// aapt resource value: 6
+			public const int ProgressButton_progressColor = 6;
+			
+			// aapt resource value: 9
+			public const int ProgressButton_shadowDrawable = 9;
+			
+			// aapt resource value: 8
+			public const int ProgressButton_unpinnedDrawable = 8;
 			
 			public static int[] RecycleListView = new int[] {
 					2130772200,
@@ -7321,6 +7713,12 @@ namespace Pomodoro.Droid
 			
 			// aapt resource value: 15
 			public const int TextInputLayout_passwordToggleTintMode = 15;
+			
+			public static int[] Theme = new int[] {
+					2130772359};
+			
+			// aapt resource value: 0
+			public const int Theme_circularProgressBarStyle = 0;
 			
 			public static int[] Toolbar = new int[] {
 					16842927,
