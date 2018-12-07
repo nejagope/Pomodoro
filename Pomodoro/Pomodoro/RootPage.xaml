@@ -21,7 +21,7 @@
   <MasterDetailPage.Detail>
     <NavigationPage>
       <x:Arguments>
-        <pages:RootPageDetail />
+        <pages:PomodoroPage />
       </x:Arguments>
     </NavigationPage>
   </MasterDetailPage.Detail>
