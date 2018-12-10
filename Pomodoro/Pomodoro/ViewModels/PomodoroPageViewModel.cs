@@ -59,8 +59,16 @@ namespace Pomodoro.ViewModels
 
         private void LoadConfiguredValues()
         {
-            pomodoroDuration = (int)Application.Current.Properties[Literals.PomodoroDurationKey];
-            breakDuration = (int)Application.Current.Properties[Literals.BreakDurationKey];
+            pomodoroDuration = 0;
+            breakDuration = 0;
+            if (Application.Current.Properties.ContainsKey(Literals.PomodoroDurationKey))
+            {
+                pomodoroDuration = (int)Application.Current.Properties[Literals.PomodoroDurationKey];
+            }            
+            if (Application.Current.Properties.ContainsKey(Literals.BreakDurationKey))
+            {
+                breakDuration = (int)Application.Current.Properties[Literals.BreakDurationKey];
+            }                
             Duration = pomodoroDuration * 60;
         }
 

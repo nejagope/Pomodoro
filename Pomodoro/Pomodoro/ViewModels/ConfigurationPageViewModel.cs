@@ -87,6 +87,7 @@ namespace Pomodoro.ViewModels
             Application.Current.Properties[Literals.BreakDurationKey] = SelectedBreakDuration;
 
             await Application.Current.SavePropertiesAsync();
+            MessagingCenter.Send<ConfigurationPageViewModel>(this, "GoToPomodoro");
         }
     }
 }
